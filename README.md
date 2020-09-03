@@ -7,3 +7,4 @@ Este repositorio tem os trabalhos da diciplina de reconhecimento de padrões do 
 - MSE pseudo-inverso .(Trabalho 2)
 - SVM linear com margem rigida. (Trabalho 2)
 - SVM linear com margem rigida. (Trabalho 2)
+- Técnincas de seleção de parâmetros. (Trabalho 4)
